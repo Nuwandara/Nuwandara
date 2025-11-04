@@ -1,6 +1,6 @@
 <!-- 🧠 Nuwandara | Unique GitHub Profile README -->
 
-<h1 align="center">👾 Nuwandara</h1>
+<h1 align="center">🔮 Nuwandara</h1>
 <h3 align="center">Software Engineer | Java Thinker | System Creator</h3>
 
 <p align="center">
