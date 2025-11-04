@@ -67,8 +67,8 @@ each one a way to make logic **alive**, modular, and meaningful.
 
 ### 📊 GitHub Insight
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nuwandara&show_icons=true&theme=radical&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwandara&layout=compact&theme=radical&hide_border=true" height="150">
 </p>
 
 ---
