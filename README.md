@@ -83,7 +83,7 @@ When I’m not coding, I’m probably:
 
 ### 📫 Connect
 <p>
-  <a href="https://github.com/Nuwandara"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/NuwandaraAbeykoon"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:nuwandaraabeykoon@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
